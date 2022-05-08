@@ -3,5 +3,6 @@
     <option name="EDITOR_AA_TYPE" value="Greyscale" />
     <option name="EDITOR_TAB_LIMIT" value="50" />
     <option name="IDE_AA_TYPE" value="Greyscale" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="19" />
   </component>
 </application>
